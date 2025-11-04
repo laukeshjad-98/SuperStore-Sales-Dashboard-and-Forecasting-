@@ -26,7 +26,7 @@ Renamed columns and standardized field names
 
 Removed unnecessary fields to improve model performance
 
-✅ 2️⃣ Data Modeling & DAX Calculations
+2️⃣ Data Modeling & DAX Calculations
 
 Built DAX measures for key metrics such as:
 
@@ -42,7 +42,7 @@ Average Delivery Days = AVERAGE(SuperStore_Sales_Dataset[Ship Days])
 
 Established relationships between tables for accurate filtering and drill-through analysis
 
-✅ 3️⃣ Dashboard Development & Visualization
+3️⃣ Dashboard Development & Visualization
 
 Designed a clean, interactive dashboard layout
 
